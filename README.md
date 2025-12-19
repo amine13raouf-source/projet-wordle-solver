@@ -30,11 +30,11 @@ Ouvre le terminal dans le dossier puis tape :
 - pour wordle :
 - gcc wordle.c -o wordle 
 - puis pour executer le programme :
-- wordle.exe
+- wordle.exe ou bien .\wordle
 - pour le solver :
 - gcc solver.c -o solver 
 - puis pour executer le programme :
-- solver.exe
+- solver.exe ou bien .\solver
 ## Example usage and sample output
 solver :
 === WORDLE SOLVER ===
