@@ -1,5 +1,11 @@
 # Wordle Solver en C
 
+## Etudiant 
+Nom: BESSAA
+Prenom: MOHQMED AMINE
+Section: ISIL C
+Gr: 4 
+Matricule: 232431652101
 ## Description
 Ce projet implemente un jeu Wordle et un solveur automatique en langage C
 dans le cadre du module ALGO3.
