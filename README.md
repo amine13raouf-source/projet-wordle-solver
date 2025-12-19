@@ -19,25 +19,30 @@ dans le cadre du module ALGO3.
 
 ## Compilation et Execution
 Ouvre le terminal dans le dossier puis tape :
-pour wordle :
-gcc wordle.c -o wordle 
-puis pour executer le programme :
-wordle.exe
-pour le solver :
-gcc solver.c -o solver 
-puis pour executer le programme :
-solver.exe
+- pour wordle :
+- gcc wordle.c -o wordle 
+- puis pour executer le programme :
+- wordle.exe
+- pour le solver :
+- gcc solver.c -o solver 
+- puis pour executer le programme :
+- solver.exe
 ## Example usage and sample output
 solver :
 === WORDLE SOLVER ===
 
 Tentative 1 : aback | Feedback : X X X X X
+
 Tentative 2 : defer | Feedback : X X X G G
+
 Tentative 3 : giver | Feedback : X G G G G
+
 Tentative 4 : liver | Feedback : X G G G G
+
 Tentative 5 : river | Feedback : G G G G G
 
  SOLVER A GAGNE !
+ 
  wordle :
  === Wordle (version ligne de commande) ===
 Essai 1/6 : Entrez une proposition (5 lettres) : aback
