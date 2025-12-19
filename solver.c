@@ -7,7 +7,7 @@
 #define MAX_WORDS 10000
 #define MAX_ATTEMPTS 6
 
-/* ===================== FEEDBACK (TON CODE) ===================== */
+/* ===================== FEEDBACK  ===================== */
 void feedback(const char *target, const char *guess, char *res) {
     int used[WORDLEN] = {0};
 
@@ -137,7 +137,7 @@ int main() {
         filter_words(dictionary, possible, dict_size, guess, fb);
     }
 
-    printf("\n SOLVER A ÉCHOUÉ\n");
+    printf("\n SOLVER A Ã‰CHOUÃ‰\n");
     printf("Mot secret : %s\n", secret);
 
     return 0;
