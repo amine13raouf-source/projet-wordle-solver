@@ -18,6 +18,8 @@ dans le cadre du module ALGO3.
 - README.md : instructions d’utilisation
 
 ## Compilation et Execution
+installer tous les fichier dans un seul dossier puis 
+
 Ouvre le terminal dans le dossier puis tape :
 - pour wordle :
 - gcc wordle.c -o wordle 
