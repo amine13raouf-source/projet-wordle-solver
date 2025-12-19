@@ -2,7 +2,7 @@
 
 ## Etudiant 
 Nom: BESSAA
-Prenom: MOHaMED AMINE
+Prenom: MOHAMED AMINE
 Section: ISIL C
 Gr: 4 
 Matricule: 232431652101
