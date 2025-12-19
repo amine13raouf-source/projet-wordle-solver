@@ -18,7 +18,13 @@ dans le cadre du module ALGO3.
 - README.md : instructions d’utilisation
 
 ## Compilation et Execution
-installer tous les fichier dans un seul dossier puis 
+Cloner ton projet GitHub 
+ouvre CMD ou Powershell et taper :
+git clone https://github.com/amine13raouf-source/projet-wordle-solver.git
+
+apres taper : cd projet-wordle-solver
+
+Après ça, le projet est sur ton ordinateur et tu peux passer à l’étape d’exécution
 
 Ouvre le terminal dans le dossier puis tape :
 - pour wordle :
