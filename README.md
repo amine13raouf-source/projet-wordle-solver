@@ -44,18 +44,31 @@ Tentative 5 : river | Feedback : G G G G G
  SOLVER A GAGNE !
  
  wordle :
+ 
  === Wordle (version ligne de commande) ===
+ 
 Essai 1/6 : Entrez une proposition (5 lettres) : aback
+
 [a:X] [b:X] [a:G] [c:X] [k:X]
+
 Essai 2/6 : Entrez une proposition (5 lettres) : beard
+
 [b:X] [e:X] [a:G] [r:X] [d:X]
+
 Essai 3/6 : Entrez une proposition (5 lettres) : coach
+
 [c:X] [o:X] [a:G] [c:X] [h:G]
+
 Essai 4/6 : Entrez une proposition (5 lettres) : frath
+
 Le mot n'existe pas dans le dictionnaire.
+
 Essai 4/6 : Entrez une proposition (5 lettres) : graph
+
 [g:X] [r:X] [a:G] [p:X] [h:G]
+
 Essai 5/6 : Entrez une proposition (5 lettres) : heath
+
 [h:X] [e:X] [a:G] [t:X] [h:G]
 Essai 6/6 : Entrez une proposition (5 lettres) : patch
 [p:X] [a:Y] [t:X] [c:X] [h:G]
