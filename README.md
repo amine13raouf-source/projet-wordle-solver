@@ -49,3 +49,4 @@ Essai 5/6 : Entrez une proposition (5 lettres) : heath
 Essai 6/6 : Entrez une proposition (5 lettres) : patch
 [p:X] [a:Y] [t:X] [c:X] [h:G]
 Vous avez perdu. Le mot etait : swash
+<img width="1167" height="813" alt="Desktop Screenshot 2025 12 19 - 20 42 24 56-1" src="https://github.com/user-attachments/assets/76c26f43-1e18-401b-8504-460aa307b3bc" />
